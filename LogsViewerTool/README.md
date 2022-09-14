@@ -19,7 +19,7 @@ This application was developed with python language and uses mainly the library 
   <i>Figure 1. Logs Viewer Tool Interface</i>
 </p>
 
-1.
+
 # Run application
 
 ## On a terminal
@@ -30,7 +30,7 @@ Check if you have python installed. If it is the case, launch a terminal and go 
 
 ….\LogsViewerTool\> python ./main.py
 
-1.
+
 # How it works
 
 When you run the application, you arrive on this page:
@@ -42,10 +42,10 @@ When you run the application, you arrive on this page:
 
 As you can see, no graphs are plotted.
 
-  1.
+  
 ## Import a File
 
-    1.
+    
 ### Format file
 
 Be careful, the file imported must look like this:
@@ -59,17 +59,20 @@ Be careful, the file imported must look like this:
 - First Line of the file is the _ **headline** _, each column has a **title** with **unity**.
 - Each column of the other lines must be a **value** (with a _ **dot** _ if it's decimal).
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.PNG)
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.PNG" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 3. Example of a file log</i>
+</p>
 
-**Figure**  **3****. ****Example of a file log**
-
-    1.
+    
 ### Choose the file !
 
 To import a file, click on the orange button:
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG)
-
+<p align="right">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 4. Button "import"</i>
+</p>
 It will open a new tab where you can choose the file to analyze.
 
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.PNG)
