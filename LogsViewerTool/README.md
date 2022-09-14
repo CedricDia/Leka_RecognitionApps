@@ -60,7 +60,7 @@ Be careful, the file imported must look like this:
 - Each column of the other lines must be a **value** (with a _ **dot** _ if it's decimal).
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.PNG" align="center" height="80%" width="80%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.PNG" align="center" height="50%" width="50%" /> <br>
   <i>Figure 3. Example of a file log</i>
 </p>
 
