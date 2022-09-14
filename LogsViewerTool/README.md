@@ -122,7 +122,7 @@ These are calculated with the **ODR\_valueHz** and **the number of lines in the 
 When you click on the components bar a new tab is opened figure 7.
 
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 8. Components Onglet</i>
 </p>
 
@@ -142,7 +142,7 @@ This is therefore very flexible.
 **For instance:** _If your file contains only these components and that you have a column F\_X corresponding to an other external tools, it will be added to the components selection._
 
 <p align="left">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image10.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image10.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 9. New selection</i>
 </p>
 <p align="right">
@@ -156,7 +156,7 @@ This is therefore very flexible.
 ### Data Type
 
 <p align="left">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 11. Data type section</i>
 </p>
 
