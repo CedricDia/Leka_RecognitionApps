@@ -193,7 +193,7 @@ _(xxxx is here 'lowpass\_filter')_
 _And had "-lowpass\_filter in the array just like below:_
 
 <p align="left">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 14. Data type section with a new line</i>
 </p>
 
@@ -219,7 +219,7 @@ If you click on the graph and maintain this, you can translate it where you want
 
 Click on the button represented figure 17 to reset the view as default
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image17.png" align="center" height="20%" width="20%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image17.png" align="center" height="15%" width="15%" /> <br>
   <i>Figure 17. Reset view button</i>
 </p>
     
@@ -228,7 +228,7 @@ Click on the button represented figure 17 to reset the view as default
 If you want to observe different data in order to compare them for example, you can do it with page management.
 
 <p align="left">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image18.png" align="center" height="20%" width="20%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image18.png" align="center" height="15%" width="15%" /> <br>
   <i>Figure 18. Add Page button</i>
 </p>
 
@@ -238,28 +238,28 @@ When you import a file, the title of the page is updated.
 
 To switch the page shows, just click on the top bar with the page's names.
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png" align="center" height="40%" width="40%" /> <br>
   <i>Figure 19. Pages toolbar</i>
 </p>
 
 
 If you want to remove a page, click on this button
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image20.png" align="center" height="20%" width="20%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image20.png" align="center" height="15%" width="15%" /> <br>
   <i>Figure 20. 'Remove Page' button</i>
 </p>
 
 _An alert message will then appear, click on "Yes" to remove the page, or "No" else._
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image21.png" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image21.png" align="center" height="40%" width="40%" /> <br>
   <i>Figure 21. 'Delete Page' Alert 1</i>
 </p>
 
 _If you try to delete the only page present on your app, you receive this information message:_
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image22.png" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image22.png" align="center" height="40%" width="40%" /> <br>
   <i>Figure 22. 'Delete Page' Alert 2</i>
 </p>
     
@@ -274,7 +274,7 @@ If you want to close the application, you can click on:
 An alert is showed to confirm than you really want to close the application
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image23.png" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image23.png" align="center" height="40%" width="40%" /> <br>
   <i>Figure 22. 'Quit the app' Alert</i>
 </p>
 
