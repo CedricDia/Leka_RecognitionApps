@@ -57,7 +57,7 @@ Be careful, the file imported must look like this:
 - First Line of the file is the _ **headline** _, each column has a **title** with **unity**.
 - Each column of the other lines must be a **value** (with a _ **dot** _ if it's decimal).
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.PNG)
 
 **Figure**  **3****. ****Example of a file log**
 
@@ -68,7 +68,7 @@ To import a file, click on the orange button:
 
 It will open a new tab where you can choose the file to analyze.
 
-![Picture 1](RackMultipart20220914-1-z6q0vw_html_75380960ae64b708.gif)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG)
 
 **Figure**  **4****. **** Import File**
 
@@ -88,7 +88,7 @@ _All these files can be plotted on the graph as we will see just below._
   1.
 ## Visualize curves
 
-![](RackMultipart20220914-1-z6q0vw_html_f7e19300eddfdd80.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.png)
 
 **Figure**  **5****. Interface after import a file**
 
