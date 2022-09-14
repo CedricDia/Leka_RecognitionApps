@@ -70,14 +70,15 @@ Be careful, the file imported must look like this:
 To import a file, click on the orange button:
 
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 4. Button "import"</i>
 </p>
 It will open a new tab where you can choose the file to analyze.
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.PNG)
-
-**Figure**  **4****. **** Import File**
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 5. Import File</i>
+</p>
 
 You can select the file that you want, but it's preferable to open the 'basic file', (i.e. the one without average or delta in his name). Indeed, in this application when you select a basic file to open, the application will automatically open the same files with average and delta in their name. The different files must be in the same repository as the basic file.
 
