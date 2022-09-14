@@ -62,13 +62,14 @@ Be careful, the file imported must look like this:
 **Figure**  **3****. ****Example of a file log**
 
     1.
-### Choose the file ![](RackMultipart20220914-1-z6q0vw_html_20793ca13f61f2d1.png)
+### Choose the file !
 
 To import a file, click on the orange button:
 
 It will open a new tab where you can choose the file to analyze.
 
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.PNG)
 
 **Figure**  **4****. **** Import File**
 
@@ -88,7 +89,7 @@ _All these files can be plotted on the graph as we will see just below._
   1.
 ## Visualize curves
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image6.png)
 
 **Figure**  **5****. Interface after import a file**
 
