@@ -66,9 +66,10 @@ Be careful, the file imported must look like this:
 
 To import a file, click on the orange button:
 
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG)
+
 It will open a new tab where you can choose the file to analyze.
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG)
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image5.PNG)
 
 **Figure**  **4****. **** Import File**
