@@ -14,7 +14,7 @@ This document is intended to provide information about the _Logs Viewer Tool use
 
 This application was developed with python language and uses mainly the library QT to design GUI.
 
-![alt text](https://github.com/CedricDia/Project_Leka/blob/master/Screens/led.png?raw=true)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image1.png)
 
 **Figure**  **1****. ****Logs Viewer Tool Interface**
 
@@ -34,7 +34,7 @@ Check if you have python installed. If it is the case, launch a terminal and go 
 
 When you run the application, you arrive on this page:
 
-![Shape1](RackMultipart20220914-1-z6q0vw_html_b3d78ba37acd48d3.gif)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image2.png)
 
 **Figure**  **2****. **** Interface by default**
 
@@ -57,7 +57,7 @@ Be careful, the file imported must look like this:
 - First Line of the file is the _ **headline** _, each column has a **title** with **unity**.
 - Each column of the other lines must be a **value** (with a _ **dot** _ if it's decimal).
 
-![Image 7](RackMultipart20220914-1-z6q0vw_html_78300328722280c5.gif) **File example:** _2022\_06\_30-11\_48\_40-26Hz-Left-First.cs_
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image3.png)
 
 **Figure**  **3****. ****Example of a file log**
 
