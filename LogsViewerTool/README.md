@@ -152,7 +152,7 @@ This is therefore very flexible.
 
 **Note** _ **:** _ _For developers, if you want to add an other component like 'F\_', and you want to change the ordinate and the title of the graph, you just need to add a condition in Component class, in the_ _ **page\_graph.py** _ _and specify the self.title and self.ordinate corresponding_.
 
-    1.
+    
 ### Data Type
 
 Checking a box will plot the data corresponding to the name of the checkbox.
