@@ -98,7 +98,7 @@ Once you open a file, a curve appears. As you probably saw, the **component** _"
 
 As you can see on the bottom of the page, you can observe these informations:
 
-![Shape2](RackMultipart20220914-1-z6q0vw_html_204c3d3f87220bb7.gif)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.png)
 
 **Figure**  **6****. **** Informations given**
 
@@ -113,12 +113,14 @@ These are calculated with the **ODR\_valueHz** and **the number of lines in the 
 
 When you click on the components bar a new tab is opened figure 7.
 
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG)
+**Figure 7.**  **Components Onglet**
+
 You can observe only one component at a time.
 
 Each component is automatically added to the selection in function of each columns.
 
 - 'A\_\*' corresponds to _Accelerometer_
-**Figure 7.**  **Components Onglet**
 - 'G\_\*' corresponds to _Gyroscope_
 - 'M\_\*' corresponds to Magnetometer
 
