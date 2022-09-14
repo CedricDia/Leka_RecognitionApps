@@ -53,7 +53,7 @@ Be careful, the file imported must look like this:
 - File's extension: _ **.csv** _or _ **.txt** _.
 - The name of the file must be like this :
 
-**yyyy\_MM\_dd** - **HH\_mm\_ss-ODR\_valueHz-Shape\_Name-suffix.csv or .txt**
+**yyyy\_MM\_dd-HH\_mm\_ss-ODR\_valueHz-Shape\_Name-suffix.csv or .txt**
 
 - The file has 6 columns separated by a _ **tabulation** _.
 - First Line of the file is the _ **headline** _, each column has a **title** with **unity**.
@@ -93,20 +93,22 @@ _All these files can be plotted on the graph as we will see just below._
 
 **Note:** _The last repository's path that you opened to select a file is saved in the file config.json. If you close the application, the path is preserved._
 
-  1.
+  
 ## Visualize curves
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image6.png)
-
-**Figure**  **5****. Interface after import a file**
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image6.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 6. Interface after import a file</i>
+</p>
 
 Once you open a file, a curve appears. As you probably saw, the **component** _"Acc\_x"_ is selected and the **checkbox** _"Raw Data"_ is checked at the left by default. The blue curve then corresponds to the graph of raw data of the accelerometer on X axis.
 
 As you can see on the bottom of the page, you can observe these informations:
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.png)
-
-**Figure**  **6****. **** Informations given**
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 7. Informations given</i>
+</p>
 
 These are calculated with the **ODR\_valueHz** and **the number of lines in the raw data file.**
 
