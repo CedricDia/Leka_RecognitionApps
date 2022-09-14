@@ -1,8 +1,7 @@
-![](RackMultipart20220914-1-z6q0vw_html_9556010622fa281.png)
+
 
 APPLICATION – LOGS VIEWER TOOL
 
-![Shape18](RackMultipart20220914-1-z6q0vw_html_c542f947712cf26.gif)
 
 LSM6DSOX: Logs Viewer Tool
 
@@ -14,7 +13,7 @@ This document is intended to provide information about the _Logs Viewer Tool use
 
 This application was developed with python language and uses mainly the library QT to design GUI.
 
-![](RackMultipart20220914-1-z6q0vw_html_44e25f07be938373.png)
+![alt text](https://github.com/CedricDia/Project_Leka/blob/master/Screens/led.png?raw=true)
 
 **Figure**  **1****. ****Logs Viewer Tool Interface**
 
