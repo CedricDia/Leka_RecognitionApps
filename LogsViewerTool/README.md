@@ -106,7 +106,7 @@ Once you open a file, a curve appears. As you probably saw, the **component** _"
 As you can see on the bottom of the page, you can observe these informations:
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.png" align="center" height="50%" width="50%" /> <br>
   <i>Figure 7. Informations given</i>
 </p>
 
@@ -116,13 +116,15 @@ These are calculated with the **ODR\_valueHz** and **the number of lines in the 
 
 **Here:** 790\*1/26 = 30.38s
 
-    1.
+    
 ### ![Shape3](RackMultipart20220914-1-z6q0vw_html_aa9768843f3a272.gif)Components
 
 When you click on the components bar a new tab is opened figure 7.
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG)
-**Figure 7.**  **Components Onglet**
+<p align="right">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 8. Components Onglet</i>
+</p>
 
 You can observe only one component at a time.
 
@@ -139,20 +141,24 @@ This is therefore very flexible.
 
 **For instance:** _If your file contains only these components and that you have a column F\_X corresponding to an other external tools, it will be added to the components selection._
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image10.PNG)
-**Figure 8.**  **New selection**
-
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image9.PNG)
-**Figure**  **9****. **** Example of a file with different columns**
+<p align="left">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image10.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 9. New selection</i>
+</p>
+<p align="right">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image9.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 10. Example of a file with different columns</i>
+</p>
 
 **Note** _ **:** _ _For developers, if you want to add an other component like 'F\_', and you want to change the ordinate and the title of the graph, you just need to add a condition in Component class, in the_ _ **page\_graph.py** _ _and specify the self.title and self.ordinate corresponding_.
 
     1.
 ### Data Type
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG)
-**Figure 10.**  **Data type section**
 
-###
+<p align="left">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 11. Data type section</i>
+</p>
 
 Checking a box will plot the data corresponding to the name of the checkbox.
 
@@ -166,8 +172,10 @@ The average is done on a number of samples, per example '8'. Therefore, in order
 
 **Note:** If you want to add a 'Data Type' in the boxes list, it's easy. In page\_graph.py, just add the name of the type in "self.type\_data\_to\_show".
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image12.PNG)
-**Figure 11.**  **Different data files**
+<p align="left">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image12.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 12. Different data files</i>
+</p>
 
 **For instance** __: If I want to add the possibility to visualize data treated by a lowpass filter. Just add the file corresponding in the repository where the file with raw data is located._
 
@@ -177,69 +185,84 @@ _Namefile: Data-Time-ODR-Suffix-xxxx.csv_
 
 _(xxxx is here 'lowpass\_filter')_
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image13.PNG)
-**Figure**  **12****. **** Array with data type (page\_graph.py)**
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image13.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 13. Array with data type (page\_graph.py)</i>
+</p>
 
 _And had "-lowpass\_filter in the array just like below:_
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG)
-**Figure**  **13****. **** Data type section with a new line**
+<p align="left">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 14. Data type section with a new line</i>
+</p>
 
 _If you run the application, you can see that a new choice "lowpass filter" is possible to check. The name of the line corresponds to the element that you added to the array where '-' and '\_' are replace by a space._
 
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image15.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 15. Accelerometer (axis Y) showed with average on 8 and 16 samples</i>
+</p>
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image15.png)
-**Figure**  **14****. **** Accelerometer (axis Y) showed with average on 8 and 16 samples**
-
-    1.
+    
 ### Change view
 
 If you want to zoom on an area of the graph, you just have to put the mouse's cursor where you want to zoom and scroll.
 
 If you click on the graph and maintain this, you can translate it where you want.
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image16.png)
-**Figure**  **15****. **** Graph zoomed**
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image16.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 16. Graph zoomed</i>
+</p>
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image17.png)
 
-**Figure 16.**  **Reset view button**
-
-Click on the button represented figure x to reset the view as default
-
-    1.
+Click on the button represented figure 17 to reset the view as default
+<p align="right">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image17.png" align="center" height="20%" width="20%" /> <br>
+  <i>Figure 17. Reset view button</i>
+</p>
+    
 ### Play with Pages
 
 If you want to observe different data in order to compare them for example, you can do it with page management.
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image18.png)
-
-**Figure 17.**  **Add Page button**
+<p align="left">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image18.png" align="center" height="20%" width="20%" /> <br>
+  <i>Figure 18. Add Page button</i>
+</p>
 
 On the right top corner of the application, you can see a button "Add page". It allows you to add a new empty page with a graph section.
 
 When you import a file, the title of the page is updated.
 
 To switch the page shows, just click on the top bar with the page's names.
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 19. Pages toolbar</i>
+</p>
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png)
-**Figure 18.**  **Pages toolbar**
-
-
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image20.png)
-**Figure 19.**  **'Remove Page' button**
 
 If you want to remove a page, click on this button
+<p align="right">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image20.png" align="center" height="20%" width="20%" /> <br>
+  <i>Figure 20. 'Remove Page' button</i>
+</p>
 
 _An alert message will then appear, click on "Yes" to remove the page, or "No" else._
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image21.png)
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image21.png" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 21. 'Delete Page' Alert 1</i>
+</p>
 
 _If you try to delete the only page present on your app, you receive this information message:_
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image22.png)
-
-    1.
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image22.png" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 22. 'Delete Page' Alert 2</i>
+</p>
+    
 ### Quit the application
 
 If you want to close the application, you can click on:
@@ -250,7 +273,10 @@ If you want to close the application, you can click on:
 
 An alert is showed to confirm than you really want to close the application
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image23.png)
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image23.png" align="center" height="50%" width="50%" /> <br>
+  <i>Figure 22. 'Quit the app' Alert</i>
+</p>
 
 #
 
