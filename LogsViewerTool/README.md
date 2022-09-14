@@ -192,7 +192,7 @@ _(xxxx is here 'lowpass\_filter')_
 
 _And had "-lowpass\_filter in the array just like below:_
 
-<p align="left">
+<p align="right">
 <img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 14. Data type section with a new line</i>
 </p>
@@ -238,7 +238,7 @@ When you import a file, the title of the page is updated.
 
 To switch the page shows, just click on the top bar with the page's names.
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png" align="center" height="40%" width="40%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 19. Pages toolbar</i>
 </p>
 
