@@ -15,7 +15,7 @@ This document is intended to provide information about the _Logs Viewer Tool use
 This application was developed with python language and uses mainly the library QT to design GUI.
 <p align="center">
 <img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image1.png" align="center" height="80%" width="80%" /> <br>
-**Figure**  **1****. ****Logs Viewer Tool Interface**
+**Figure 1. Logs Viewer Tool Interface**
 </p>
 1.
 # Run application
