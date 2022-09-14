@@ -70,7 +70,7 @@ Be careful, the file imported must look like this:
 To import a file, click on the orange button:
 
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG" align="center" height="20%" width="20%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image4.PNG" align="center" height="15%" width="15%" /> <br>
   <i>Figure 4. Button "import"</i>
 </p>
 It will open a new tab where you can choose the file to analyze.
@@ -155,12 +155,12 @@ This is therefore very flexible.
     1.
 ### Data Type
 
+Checking a box will plot the data corresponding to the name of the checkbox.
+
 <p align="left">
 <img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG" align="center" height="20%" width="20%" /> <br>
   <i>Figure 11. Data type section</i>
 </p>
-
-Checking a box will plot the data corresponding to the name of the checkbox.
 
 If the corresponding file doesn't exist, then the checkbox is inactive.
 
