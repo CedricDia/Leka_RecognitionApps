@@ -13,6 +13,7 @@ LSM6DSOX: Logs Viewer Tool
 This document is intended to provide information about the _Logs Viewer Tool used_ to visualize data recording with the _Record IMU application_.
 
 This application was developed with python language and uses mainly the library QT to design GUI.
+<a href="url"><img src="[http://url.to/image.png](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image1.png)" align="center" height="48" width="48" ></a>
 
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image1.png)
 
