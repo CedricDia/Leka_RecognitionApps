@@ -122,7 +122,7 @@ These are calculated with the **ODR\_valueHz** and **the number of lines in the 
 When you click on the components bar a new tab is opened figure 7.
 
 <p align="right">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG" align="center" height="20%" width="20%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG" align="center" height="10%" width="10%" /> <br>
   <i>Figure 8. Components Onglet</i>
 </p>
 
@@ -172,7 +172,7 @@ The average is done on a number of samples, per example '8'. Therefore, in order
 
 **Note:** If you want to add a 'Data Type' in the boxes list, it's easy. In page\_graph.py, just add the name of the type in "self.type\_data\_to\_show".
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image12.PNG" align="center" height="50%" width="50%" /> <br>
   <i>Figure 12. Different data files</i>
 </p>
