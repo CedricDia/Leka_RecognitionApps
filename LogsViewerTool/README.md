@@ -131,7 +131,7 @@ This is therefore very flexible.
 
 **For instance:** _If your file contains only these components and that you have a column F\_X corresponding to an other external tools, it will be added to the components selection._
 
-![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image10.PNG)
 **Figure 8.**  **New selection**
 
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image9.PNG)
@@ -141,8 +141,7 @@ This is therefore very flexible.
 
     1.
 ### Data Type
- ![Shape7](RackMultipart20220914-1-z6q0vw_html_4dde0771891f6776.gif)
-
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image11.PNG)
 **Figure 10.**  **Data type section**
 
 ###
@@ -159,9 +158,10 @@ The average is done on a number of samples, per example '8'. Therefore, in order
 
 **Note:** If you want to add a 'Data Type' in the boxes list, it's easy. In page\_graph.py, just add the name of the type in "self.type\_data\_to\_show".
 
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image12.PNG)
 **Figure 11.**  **Different data files**
 
-![Shape9](RackMultipart20220914-1-z6q0vw_html_2e11b9865220d157.gif)_ **For instance** __: If I want to add the possibility to visualize data treated by a lowpass filter. Just add the file corresponding in the repository where the file with raw data is located._
+**For instance** __: If I want to add the possibility to visualize data treated by a lowpass filter. Just add the file corresponding in the repository where the file with raw data is located._
 
 _The name of this new file must have the same pattern as the raw data file._
 
@@ -169,7 +169,7 @@ _Namefile: Data-Time-ODR-Suffix-xxxx.csv_
 
 _(xxxx is here 'lowpass\_filter')_
 
-![Shape11](RackMultipart20220914-1-z6q0vw_html_8bbff475f7db8076.gif)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image13.PNG)
 
 **Figure**  **12****. **** Array with data type (page\_graph.py)**
 
