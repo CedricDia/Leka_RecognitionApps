@@ -106,7 +106,7 @@ Once you open a file, a curve appears. As you probably saw, the **component** _"
 As you can see on the bottom of the page, you can observe these informations:
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.png" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image7.png" align="center" height="60%" width="60%" /> <br>
   <i>Figure 7. Informations given</i>
 </p>
 
