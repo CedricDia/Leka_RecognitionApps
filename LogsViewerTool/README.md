@@ -128,12 +128,13 @@ Each component is automatically added to the selection in function of each colum
 
 This is therefore very flexible.
 
+
+**For instance:** _If your file contains only these components and that you have a column F\_X corresponding to an other external tools, it will be added to the components selection._
+
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image8.PNG)
 **Figure 8.**  **New selection**
 
-![](RackMultipart20220914-1-z6q0vw_html_649247d4d05c1de8.png) **For instance:** _If your file contains only these components and that you have a column F\_X corresponding to an other external tools, it will be added to the components selection._
-
-![](RackMultipart20220914-1-z6q0vw_html_670089e0d504fbe5.png)
-
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image9.PNG)
 **Figure**  **9****. **** Example of a file with different columns**
 
 **Note** _ **:** _ _For developers, if you want to add an other component like 'F\_', and you want to change the ordinate and the title of the graph, you just need to add a condition in Component class, in the_ _ **page\_graph.py** _ _and specify the self.title and self.ordinate corresponding_.
