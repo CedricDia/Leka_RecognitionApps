@@ -57,7 +57,7 @@ Check if you have python installed. If it is the case, launch a terminal and go 
 
 When you run the application, you arrive on this page:
 
-![Shape1](RackMultipart20220914-1-fdt2yk_html_b3d78ba37acd48d3.gif)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image2.png)
 
 **Figure**  **2****. **** Interface by default**
 
