@@ -1,6 +1,6 @@
 
 
-<H2>APPLICATION – LOGS VIEWER TOOL</H2>
+<H2 align="center">APPLICATION – LOGS VIEWER TOOL</H2>
 
 #
 
