@@ -170,19 +170,17 @@ _Namefile: Data-Time-ODR-Suffix-xxxx.csv_
 _(xxxx is here 'lowpass\_filter')_
 
 ![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image13.PNG)
-
 **Figure**  **12****. **** Array with data type (page\_graph.py)**
 
 _And had "-lowpass\_filter in the array just like below:_
 
-![Image 38](RackMultipart20220914-1-z6q0vw_html_1851d670d022159f.gif)
-
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image14.PNG)
 **Figure**  **13****. **** Data type section with a new line**
 
 _If you run the application, you can see that a new choice "lowpass filter" is possible to check. The name of the line corresponds to the element that you added to the array where '-' and '\_' are replace by a space._
 
-![](RackMultipart20220914-1-z6q0vw_html_2d8a3eb27ea53bab.png)
 
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image15.png)
 **Figure**  **14****. **** Accelerometer (axis Y) showed with average on 8 and 16 samples**
 
     1.
@@ -192,11 +190,10 @@ If you want to zoom on an area of the graph, you just have to put the mouse's cu
 
 If you click on the graph and maintain this, you can translate it where you want.
 
-![Shape13](RackMultipart20220914-1-z6q0vw_html_1e0957d2c8796220.gif)
-
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image16.png)
 **Figure**  **15****. **** Graph zoomed**
 
-![](RackMultipart20220914-1-z6q0vw_html_bc19bb94f319a7c.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image17.png)
 
 **Figure 16.**  **Reset view button**
 
@@ -207,7 +204,7 @@ Click on the button represented figure x to reset the view as default
 
 If you want to observe different data in order to compare them for example, you can do it with page management.
 
-![](RackMultipart20220914-1-z6q0vw_html_43e2b87b8f3a44b5.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image18.png)
 
 **Figure 17.**  **Add Page button**
 
@@ -217,23 +214,22 @@ When you import a file, the title of the page is updated.
 
 To switch the page shows, just click on the top bar with the page's names.
 
-![](RackMultipart20220914-1-z6q0vw_html_be371866eb20aae8.png) ![](RackMultipart20220914-1-z6q0vw_html_5a833ee62be4c640.png)
-
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image19.png)
 **Figure 18.**  **Pages toolbar**
 
-![](RackMultipart20220914-1-z6q0vw_html_4886f7d22b2c5035.png)
 
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image20.png)
 **Figure 19.**  **'Remove Page' button**
 
 If you want to remove a page, click on this button
 
 _An alert message will then appear, click on "Yes" to remove the page, or "No" else._
 
-![](RackMultipart20220914-1-z6q0vw_html_164d94662d460a39.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image21.png)
 
 _If you try to delete the only page present on your app, you receive this information message:_
 
-![](RackMultipart20220914-1-z6q0vw_html_2c093560e854e064.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image22.png)
 
     1.
 ### Quit the application
@@ -246,12 +242,11 @@ If you want to close the application, you can click on:
 
 An alert is showed to confirm than you really want to close the application
 
-![](RackMultipart20220914-1-z6q0vw_html_c401cc43a9a2aad.png)
+![](https://github.com/CedricDia/Leka_RecognitionApps/blob/main/LogsViewerTool/Screens/image23.png)
 
 #
 
 _Author: Diavorini Cédric_
-
-_Mail: Diavorini.Cedric.dev@gmail.com_
+_Mail: diavorini.Cedric.dev@gmail.com_
 
 8
