@@ -7,6 +7,7 @@ LSM6DSOX: Logs Viewer Tool
 
 #
 
+
 # Introduction
 
 This document is intended to provide information about the _Logs Viewer Tool used_ to visualize data recording with the _Record IMU application_.
