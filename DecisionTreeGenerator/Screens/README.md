@@ -1,1 +1,1 @@
-Images used
+Images used for documentation
