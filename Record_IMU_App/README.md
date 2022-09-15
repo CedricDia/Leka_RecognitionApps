@@ -50,21 +50,24 @@ Before starting using the recording application, you need to configure the setti
 
 - Go to **Tools** \> **ODR** : to choose the Output Data Rate for the recording
 
-![](RackMultipart20220915-1-mzdag1_html_ee93bc846f6c1009.png)
-
-**Figure 3 :** Setting the ODR
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic3.PNG" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 3. Setting the ODR</i>
+</p>
 
 - Go to **Tools** \> **Time recording** : to choose the duration of the recording (5s, 10s, 20s, 30s and 60s)
 
-![Shape1](RackMultipart20220915-1-mzdag1_html_4573d78f33606045.gif) ![](RackMultipart20220915-1-mzdag1_html_ee93bc846f6c1009.png)
-
-**Figure 4 :** Setting the time recording
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic4.PNG" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 4. Setting the time recording</i>
+</p>
 
 - Go to **Tools** \> **Time per movement**** :** to choose the duration of one motion (1s, 1.5s, or 2s)
 
-![Shape2](RackMultipart20220915-1-mzdag1_html_114449fb4382ee4a.gif) ![](RackMultipart20220915-1-mzdag1_html_15a91b845e8e7e57.png)
-
-**Figure 5 :** Setting the duration of one movement
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic5.PNG" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 5. Setting the duration of one movement</i>
+</p>
 
 **Note:** _The last repository's path that you opened to configure the recordings files' path is saved in the file config.json. If you close the application, the path is preserved._
 
