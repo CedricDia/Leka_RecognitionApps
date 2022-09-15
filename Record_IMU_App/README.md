@@ -42,7 +42,7 @@ Before starting using the recording application, you need to configure the setti
 - Go to **Tools** \> **Port** : to choose the COM port for the card
 - 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic2.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic2.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 2. Setting the COM port</i>
 </p>
 
@@ -51,21 +51,21 @@ Before starting using the recording application, you need to configure the setti
 - Go to **Tools** \> **ODR** : to choose the Output Data Rate for the recording
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic3.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic3.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 3. Setting the ODR</i>
 </p>
 
 - Go to **Tools** \> **Time recording** : to choose the duration of the recording (5s, 10s, 20s, 30s and 60s)
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic4.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic4.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 4. Setting the time recording</i>
 </p>
 
 - Go to **Tools** \> **Time per movement**** :** to choose the duration of one motion (1s, 1.5s, or 2s)
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic5.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic5.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 5. Setting the duration of one movement</i>
 </p>
 
@@ -104,7 +104,7 @@ The chosen classes are displayed on the window as shown on figure 5. You can add
   - **Delete line** : is for deleting the corresponding recording line
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/alert.png" align="center" height="60%" width="60%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/alert.png" align="center" height="40%" width="40%" /> <br>
   <i>Figure 9. 'Delete Line' Alert</i>
 </p>
 
@@ -124,7 +124,7 @@ To start the recording you have to click on the "REC" button.
 A new window is displayed and manages the recording session. Once you are ready to start, click on the green "Ready" button on the right side of the screen.
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic10.PNG" align="center" height="50%" width="50%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic10.PNG" align="center" height="80%" width="80%" /> <br>
   <i>Figure 11. Ready button on the recording window to start the recording</i>
 </p>
 
@@ -133,14 +133,14 @@ Then, a countdown of 5 seconds is triggered before the recording starts and afte
 The IMU data will be registered in a file at the end of the recording (to keep the real-time capture of data).
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic11.PNG" align="center" height="60%" width="60%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic11.PNG" align="center" height="40%" width="40%" /> <br>
   <i>Figure 12. Example of a created logs' file</i>
 </p>
 
 At the end of the timer, the main window is automatically displayed with the updated information. Now, you can see the complete name of the created file and you also have information about the status of the recording (figure 13).
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic12.PNG" align="center" height="60%" width="60%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic12.PNG" align="center" height="80%" width="80%" /> <br>
   <i>Figure 13. Updated main window</i>
 </p>
 
