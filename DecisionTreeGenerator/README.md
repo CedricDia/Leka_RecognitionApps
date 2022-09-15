@@ -1,10 +1,6 @@
-![](RackMultipart20220915-1-pmp16z_html_9556010622fa281.png)
 
-APPLICATION NODE
+<H2 align="center">APPLICATION – DECISION TREE GENERATOR</H2>
 
-![Shape 2](RackMultipart20220915-1-pmp16z_html_9492d562bb026989.gif)
-
-**Decision tree app**
 
 # Introduction
 
