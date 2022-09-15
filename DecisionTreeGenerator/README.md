@@ -46,13 +46,11 @@ In this section, we will explain how the scripts contained in the decision\_tree
 As described in the previous schema, the DecisionTreeTool starts using the inertial module unit's logs contained in a folder ../Logs. This folder contains the different classes of the project (1 class/folder).
 
 **Example** : if we have only 3 classes [idle, up, down] it will be as following :
-<div align="center">
 | Files |
 | --- |
 | ../Logs/idle |
 |  ../Logs/up |
 |  ../Logs/down |
-</div>
 ##
 
 ## a. Creation of the .arff file
