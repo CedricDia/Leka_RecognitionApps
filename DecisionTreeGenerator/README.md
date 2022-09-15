@@ -48,7 +48,9 @@ As described in the previous schema, the DecisionTreeTool starts using the inert
 
 **Example** : if we have only 3 classes [idle, up, down] it will be as following :
 
-| ../Logs/idle../Logs/up../Logs/down |
+| ../Logs/idle
+  ../Logs/up
+  ../Logs/down |
 | --- |
 
 ##
