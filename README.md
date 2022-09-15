@@ -2,7 +2,7 @@
 
 <H2 align="center">LEKA – IMU Mouvements Recognition </H2>
 
-This repository contains the different apps created to recognize a mouvement by the IMU LSM6DSOX and every apps documentations as well.
+This repository contains the different apps created to recognize a mouvement by the IMU LSM6DSOX and each app documentations as well.
 
 
 - <b>Record IMU App </b> - This application allows to register classes logs that the decision tree will recognize with the LSM6DSOX's Data of the robot Leka which has the spike lk_imu_app running.
@@ -13,5 +13,5 @@ This repository contains the different apps created to recognize a mouvement by 
 
 - <b> Decision Tree Generator </b> - This algorithm allows to generate easily a decision tree from logs recording. <i>(Easily configurable in one line in the terminal)</i>
 
-More informations of each app in their perspective folder (README.md)
+More informations of each app in their perspective folder. <i>(README.md)</i>
 
