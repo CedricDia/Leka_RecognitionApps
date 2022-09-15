@@ -280,4 +280,3 @@ An alert is showed to confirm than you really want to close the application
 _Author: Diavorini Cédric_
 _Mail: diavorini.Cedric.dev@gmail.com_
 
-8

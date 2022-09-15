@@ -6,9 +6,11 @@
 
 This document is intended to provide information about the decision\_tree folder containing scripts used to manage the data logs collected from the 3D accelerometer and 3D gyroscope of the IMU LSM6DSOX (ST Microelectronics product) with the Record\_APP.
 
-![](RackMultipart20220915-1-pmp16z_html_add41efdd05781d2.png)
 
-**Figure 1 :** Main steps for designing a project using the MLC feature of the lsm6dsox module
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/DecisionTreeGenerator/Screens/steps_MLC.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 1. Main steps for designing a project using the MLC feature of the lsm6dsox module</i>
+</p>
 
 This application was developed in order to facilitate the 3 steps of the whole motion recognition procedure design (step 2 to 4).
 
@@ -36,9 +38,11 @@ Note : _The argument required to run the program corresponds to the .ucf file an
 
 In this section, we will explain how the scripts contained in the decision\_tree folder work.
 
-![](RackMultipart20220915-1-pmp16z_html_ae46efdb52059059.png)
-
-**Figure 2 :** Procedure of the DecisionTreeTool
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/DecisionTreeGenerator/Screens/schema.png
+" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 1. Procedure of the DecisionTreeTool</i>
+</p>
 
 As described in the previous schema, the DecisionTreeTool starts using the inertial module unit's logs contained in a folder ../Logs. This folder contains the different classes of the project (1 class/folder).
 
@@ -128,3 +132,5 @@ To run the program, we need to add two required arguments :
 - algorithm to generate the decision tree classifier : -ml\_algo or --ML\_Algorithm
 
 **Note :** This part of the program is contained in the command\_parameters.py.
+
+_Author: Bennamane Camelia_
