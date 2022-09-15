@@ -5,7 +5,7 @@
 This repository contains the different apps created to recognize a mouvement by the IMU LSM6DSOX and every apps documentations as well.
 
 
-- ##Record IMU App - 
+- <b>Record IMU App </b> - 
 - 
 - Convert -
 
