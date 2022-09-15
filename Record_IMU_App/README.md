@@ -35,14 +35,14 @@ Before starting using the recording application, you need to configure the setti
 - Go to **File** \> **Preferences :** to set the recordings files' path
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic1.png" align="center" height="80%" width="80%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic1.PNG" align="center" height="80%" width="80%" /> <br>
   <i>Figure 1. Setting the recordings files' path</i>
 </p>
 
 - Go to **Tools** \> **Port** : to choose the COM port for the card
 - 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic2.png" align="center" height="60%" width="60%" /> <br>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic2.PNG" align="center" height="60%" width="60%" /> <br>
   <i>Figure 2. Setting the COM port</i>
 </p>
 
