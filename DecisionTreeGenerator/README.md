@@ -39,18 +39,17 @@ Note : _The argument required to run the program corresponds to the .ucf file an
 In this section, we will explain how the scripts contained in the decision\_tree folder work.
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/DecisionTreeGenerator/Screens/schema.png
-" align="center" height="80%" width="80%" /> <br>
-  <i>Figure 1. Procedure of the DecisionTreeTool</i>
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/DecisionTreeGenerator/Screens/schema.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 2. Procedure of the DecisionTreeTool</i>
 </p>
 
 As described in the previous schema, the DecisionTreeTool starts using the inertial module unit's logs contained in a folder ../Logs. This folder contains the different classes of the project (1 class/folder).
 
 **Example** : if we have only 3 classes [idle, up, down] it will be as following :
 
-| ../Logs/idle
-  ../Logs/up
-  ../Logs/down |
+| ../Logs/idle |
+|  ../Logs/up |
+|  ../Logs/down |
 | --- |
 
 ##
