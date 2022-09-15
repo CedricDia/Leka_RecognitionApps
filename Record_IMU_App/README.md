@@ -22,17 +22,7 @@ This application was developed in python language and uses Qt library to design 
 
 #
 
-#
 
-#
-
-#
-
-#
-
-#
-
-#
 
 # 2 - How it works
 
@@ -50,8 +40,11 @@ Before starting using the recording application, you need to configure the setti
 </p>
 
 - Go to **Tools** \> **Port** : to choose the COM port for the card
-
-![](RackMultipart20220915-1-mzdag1_html_15a91b845e8e7e57.png)
+- 
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic_2.png" align="center" height="60%" width="60%" /> <br>
+  <i>Figure 2. Setting the COM port</i>
+</p>
 
 **Figure 2 :** Setting the COM port
 
