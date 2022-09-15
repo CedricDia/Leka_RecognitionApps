@@ -1,10 +1,7 @@
-![](RackMultipart20220915-1-mzdag1_html_9556010622fa281.png)
 
-APPLICATION NODE
 
-![Shape 2](RackMultipart20220915-1-mzdag1_html_76f847a14ad30029.gif)
+<H2 align="center">APPLICATION – Record IMU LSM6DSOX </H2>
 
-**IMU LSM6DSOX : Record Application**
 
 # Introduction
 
@@ -47,9 +44,10 @@ Before starting using the recording application, you need to configure the setti
 
 - Go to **File** \> **Preferences :** to set the recordings files' path
 
-![](RackMultipart20220915-1-mzdag1_html_9c2681e12595fea9.png)
-
-**Figure 1 :** Setting the recordings files' path
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Record_IMU_App/Screens/pic_1.png" align="center" height="80%" width="80%" /> <br>
+  <i>Figure 1. Setting the recordings files' path</i>
+</p>
 
 - Go to **Tools** \> **Port** : to choose the COM port for the card
 
