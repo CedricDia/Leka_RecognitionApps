@@ -5,9 +5,10 @@
 This repository contains the different apps created to recognize a mouvement by the IMU LSM6DSOX and every apps documentations as well.
 
 
+- #Record IMU App - 
+- 
 - Convert -
 
-- Record IMU App - 
 
 - Decision Tree Generator - 
 
