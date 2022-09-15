@@ -1,0 +1,258 @@
+---
+
+#LKA_class_list: version '2.0.0'
+
+#
+# MARK: Pure shapes
+#
+
+classes:
+  
+  idle : 
+    composite : False
+    sequence : 
+     - idle
+  
+
+  horizontal : 
+    composite : False
+    sequence : 
+     - horizontal
+
+
+  forward_backward : 
+    composite : False
+    sequence : 
+     - forward_backward
+  
+
+  vertical :
+    composite : False
+    sequence : 
+     - vertical
+  
+
+  up :
+    composite : False
+    sequence : 
+     - up
+  
+  
+  right : 
+    composite : False
+    sequence : 
+     - right
+  
+
+  down :
+    composite : False
+    sequence : 
+     - down
+
+  left :
+    composite : False
+    sequence : 
+     - left
+  
+
+  diagonal_up_right :
+    composite : False
+    sequence : 
+     - diagonal_up_right
+  
+
+  diagonal_down_right :
+    composite : False
+    sequence : 
+     - diagonal_down_right
+  
+
+  diagonal_down_left :
+    composite : False
+    sequence : 
+     - diagonal_down_left
+  
+
+  diagonal_up_left : 
+    composite : False
+    sequence : 
+     - diagonal_up_left
+
+  arc_down_left : 
+    composite : False
+    sequence :   
+      arc_down_left
+    
+  arc_up_right : 
+    composite : False
+    sequence :   
+      arc_up_right
+  
+  arc_up_left:
+    composite : False
+    sequence : 
+     - arc_up_left
+  
+
+  arc_down_right:
+    composite : False
+    sequence : 
+     - arc_down_right
+
+  up_down : #discuss if composite = True or False
+    composite : True
+    sequence : 
+      - up
+      - down
+
+  right_left : #discuss if composite = True or False
+    composite : True
+    sequence : 
+      - right
+      - left
+
+  diagonal_DR_UL : #discuss if composite = True or False
+    composite : True
+    sequence : 
+      - diagonal_down_right
+      - diagonal_up_left
+
+  diagonal_UR_DL : #discuss if composite = True or False
+    composite : True
+    sequence : 
+      - diagonal_up_right
+      - diagonal_down_left
+
+  circle_clockwise : #discuss if composite = True or False
+    #to define
+    composite : True
+    sequence : 
+      - arc_down_right
+      - arc_up_left
+
+
+  circle_counter_clockwise : #discuss if composite = True or False
+    composite : True
+    sequence : 
+      - arc_down_left
+      - arc_up_right
+
+
+  square_clockwise : 
+    composite : True 
+    sequence : 
+      - right
+      - down
+      - left
+      - up
+
+  
+  square_counter_clockwise :
+    composite : True 
+    sequence : 
+      - down
+      - right
+      - up
+      - left
+
+ 
+  triangle_clockwise :
+    composite : True
+    sequence : 
+      - diagonal_down_right
+      - left
+      - diagonal_up_right
+
+  
+  triangle_counter_clockwise: 
+    composite : True
+    sequence : 
+      - diagonal_down_left
+      - right
+      - diagonal_up_left
+
+
+  rhombus_clockwise :
+    composite : True
+    sequence :
+      - diagonal_down_right
+      - diagonal_down_left
+      - diagonal_up_left
+      - diagonal_up_right
+
+ 
+  rhombus_counter_clockwise : 
+    composite : True
+    sequence :
+      - diagonal_down_left
+      - diagonal_down_right
+      - diagonal_up_right
+      - diagonal_up_left
+
+
+  one :
+    composite : True
+    sequence : 
+      - diagonal_up_right
+      - down
+ 
+
+  two : 
+    composite : True
+    sequence : 
+      - arc_up_right
+      - right
+
+
+  three : 
+    composite : True
+    sequence : #to define
+      - arc_up_right
+    
+
+  four :
+    composite : True
+    sequence : 
+      - diagonal_down_left
+      - right
+      - down
+
+
+  five :
+    composite : True
+    sequence : 
+      - left
+      - down
+      - right
+      - down
+      - left
+
+
+  six : 
+    composite : True
+    sequence :
+      - arc_up_right
+      - arc_up_right
+ 
+
+  seven :
+    composite : True
+    sequence :
+      - right
+      - diagonal_down_left
+
+
+  eight :
+    composite : True
+    sequence : #to define 
+      - circle_clockwise
+
+
+  nine :
+    composite : True
+    sequence : #to define
+      - circle_counter_clockwise
+      - arc_up_right
+
+...
+
