@@ -1,5 +1,5 @@
 
-<H3 align="center">Python version : 3.9.13 </H3>
+<H4 align="center">Python version : 3.9.13 </H4>
 
 <H2 align="center">LEKA – IMU Mouvements Recognition </H2>
 
