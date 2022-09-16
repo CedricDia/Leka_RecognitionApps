@@ -55,13 +55,13 @@ The formula to get the moving average is the following:
 
 To select this N, you must type it in the case on the right top corner at the line 'Range:'
 
-Then click on the green button 'Generate'. The algorithm will calculate the moving average on the first N data for each column (from index 0), then increment by one the index, calculate the average between index 1 and index+N, the repeat this until the end of the file. The result of this is stocked in an array then writing in a file.
+Then click on the green button 'Generate'. The algorithm will calculate the moving average on the first N data for each column (from index 0), then increment by one the index, calculate the average between index 1 and index+N, then repeat this until the end of the file. The result of this is stocked in an array then written in a file.
 
 The name of the created file will be ORIGINAL\_FILE\_NAME-average-Range\_N.csv
 
 Note: If you want to generate rapidly 3 moving average files on 4, 8 and 16 samples, you can click on the orange button 'Generate [sample – 4/8/16]'.
 
-If it works, a green message will appear 'File created successfully!', and if it doesn't then a red message 'File not created, [the reason]'.
+If it works, a green message will appear 'File created successfully!', and if it doesn't then it is a red message 'File not created, [the reason]'.
 
   
 ## Generate a delta file
@@ -72,14 +72,14 @@ Delta corresponds to the difference between 2 data:
 <p align="center">
 <img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formuledlta.PNG" align="center" height="30%" width="30%" /> 
 </p>
-Click on this button will generate a file where the delta is calculated for each column until arriving at the end of the file.
+Clicking on this button will generate a file where the delta is calculated for each column until arriving at the end of the file.
 
 The new file name will be: ORIGINAL\_FILE\_NAME -Cedric-delta.csv
 
   
 ## Note
 
-The Record\_IMU\_App application can automatically generate moving average after each recording but the line in the script find\_com.py is commented by default. The script present in Record\_IMU\_App is better because it's more secure than Convert\_App with the manage different possible bugs.
+The Record\_IMU\_App application can automatically generate moving average after each recording but the line in the script find\_com.py is commented by default. The script present in Record\_IMU\_App is better because it's more secure than Convert\_App thanks to the management of different possible bugs.
 
 
 
