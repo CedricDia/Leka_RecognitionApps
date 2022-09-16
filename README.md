@@ -1,7 +1,7 @@
 
 <H4 align="center">Python version : 3.9.13 </H4>
 
-<H2 align="center">LEKA – IMU Mouvements Recognition </H2>
+<H2 align="center">LEKA – IMU Movements Recognition </H2>
 
 This repository contains the different apps created to recognize a mouvement by the IMU LSM6DSOX and each app documentations as well.
 
