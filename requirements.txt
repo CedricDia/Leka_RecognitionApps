@@ -1,0 +1,10 @@
+matplotlib==3.6.0
+numpy==1.23.1
+pandas==1.4.3
+pydotplus==2.0.2
+pyqtgraph==0.12.4
+pyserial==3.5
+PySide6==6.3.2
+PyYAML==6.0
+scikit_learn==1.1.2
+scipy==1.8.1
