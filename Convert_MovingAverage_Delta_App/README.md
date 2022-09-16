@@ -48,6 +48,11 @@ If you want to generate a single moving average, you have to choose on how much 
 
 The formula to get the moving average is the following:
 
+<p align="center">
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formulema.png" align="center" height="50%" width="50%" /> 
+</p>
+
+
 To select this N, you must type it in the case on the right top corner at the line 'Range:'
 
 Then click on the green button 'Generate'. The algorithm will calculate the moving average on the first N data for each column (from index 0), then increment by one the index, calculate the average between index 1 and index+N, the repeat this until the end of the file. The result of this is stocked in an array then writing in a file.
