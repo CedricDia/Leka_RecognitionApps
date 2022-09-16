@@ -102,7 +102,7 @@ Once the decision tree is generated, we call the ucf\_generator() method from th
 
 This file contains a structure which is composed of 2 sections one for the registers' addresses and the other one for the data they contain.
 
-##The value of each output class of the decision tree is written in the file UCF_generation.txt after the features enumeration. The order of the written classes ##defines the value, for instance : "Right ; Idle ; Left ; Up ; Down ;" -> The tree's output to identify Right will be 0, for Idle it will be 1, Left 2 etc.
+<b>The value of each output class of the decision tree is written in the file UCF_generation.txt after the features enumeration. The order of the written classes defines the value, for instance : "Right ; Idle ; Left ; Up ; Down ;" -> The tree's output to identify Right will be 0, for Idle it will be 1, Left 2 etc. Values in the motion.h file must be consistent with this result. </b>
 
 ##
 
