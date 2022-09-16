@@ -49,7 +49,7 @@ If you want to generate a single moving average, you have to choose on how much 
 The formula to get the moving average is the following:
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formulema.PNG" align="center" height="50%" width="50%" /> 
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formulema.PNG" align="center" height="30%" width="30%" /> 
 </p>
 
 
