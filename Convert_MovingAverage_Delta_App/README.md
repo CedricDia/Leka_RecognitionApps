@@ -83,6 +83,6 @@ The Record\_IMU\_App application can automatically generate moving average after
 
 
 
-_Author: Diavorini Cédric_
+_Author: Diavorini Cédric_ </br>
 _Mail: diavorini.Cedric.dev@gmail.com_
 
