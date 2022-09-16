@@ -49,7 +49,7 @@ If you want to generate a single moving average, you have to choose on how much 
 The formula to get the moving average is the following:
 
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formulema.PNG" align="center" height="30%" width="30%" /> 
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formulema.PNG" align="center" height="50%" width="50%" /> 
 </p>
 
 
@@ -70,7 +70,7 @@ If you want to generate a delta file, you must click on the blue button 'Generat
 
 Delta corresponds to the difference between 2 data:
 <p align="center">
-<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formuledlta.PNG" align="center" height="50%" width="50%" /> 
+<img src="https://github.com/CedricDia/Leka_RecognitionApps/blob/main/Convert_MovingAverage_Delta_App/Screens/formuledlta.PNG" align="center" height="35%" width="35%" /> 
 </p>
 Click on this button will generate a file where the delta is calculated for each column until arriving at the end of the file.
 
